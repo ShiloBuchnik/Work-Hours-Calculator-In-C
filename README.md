@@ -1,6 +1,6 @@
 This program uses a save file to save your hours, and lets you add to that save file as the work month progresses.  
 When prompt to calculate, it asks for hourly pay and if to deduce 30 minutes breaks.  
-In return, it outputs the sum of hours, sum of overtime, and the expected salary, *in consideration to overtime percentage*     
+In return, it outputs the sum of hours, sum of overtime, and the expected salary, **in consideration to overtime percentage**     
   
 It utilizes Windows' API to enable ANSI escape sequences (thus, enabling colored printing)
 
